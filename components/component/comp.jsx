@@ -107,7 +107,7 @@ export function comp() {
                 Receive an AI-powered daily prompt that analyzes your thinking patterns and identifies cognitive
                 distortions.
               </p>
-              <Button variant="primary">View Today's Prompt</Button>
+              <Button variant="primary">View Today&apos;s Prompt</Button>
             </div>
             <div className="bg-gray-100 dark:bg-gray-800 rounded-lg shadow-lg p-6">
               <div className="flex items-center mb-4">
@@ -199,8 +199,8 @@ export function comp() {
                   </div>
                 </div>
                 <p className="text-gray-600 dark:text-gray-400 mb-4">
-                  "Cognitive Cleanse has been a game-changer for me. It's helped me identify and overcome my cognitive
-                  biases, leading to better decision-making and a more positive mindset."
+                  &quot;Cognitive Cleanse has been a game-changer for me. It&apos;s helped me identify and overcome my cognitive
+                  biases, leading to better decision-making and a more positive mindset.&quot;
                 </p>
                 <div className="flex justify-end">
                   <Button variant="outline">View Profile</Button>
@@ -219,8 +219,8 @@ export function comp() {
                   </div>
                 </div>
                 <p className="text-gray-600 dark:text-gray-400 mb-4">
-                  "I highly recommend Cognitive Cleanse to anyone looking to improve their mental well-being. The app's
-                  insights and exercises have been invaluable in helping me overcome my cognitive distortions."
+                  &quot;I highly recommend Cognitive Cleanse to anyone looking to improve their mental well-being. The app&apos;s
+                  insights and exercises have been invaluable in helping me overcome my cognitive distortions.&quot;
                 </p>
                 <div className="flex justify-end">
                   <Button variant="outline">View Profile</Button>
@@ -239,8 +239,8 @@ export function comp() {
                   </div>
                 </div>
                 <p className="text-gray-600 dark:text-gray-400 mb-4">
-                  "I'm so grateful for the Cognitive Cleanse community. The support and shared experiences have been
-                  invaluable in my journey to overcome my cognitive biases. It's truly a transformative app."
+                  &quot;I&apos;m so grateful for the Cognitive Cleanse community. The support and shared experiences have been
+                  invaluable in my journey to overcome my cognitive biases. It&apos;s truly a transformative app.&quot;
                 </p>
                 <div className="flex justify-end">
                   <Button variant="outline">View Profile</Button>
@@ -439,3 +439,5 @@ function TwitterIcon(props) {
     </svg>)
   );
 }
+
+

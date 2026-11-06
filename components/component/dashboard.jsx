@@ -178,7 +178,7 @@ export default function dashboard() {
                   <div>
                     <p className="text-sm font-medium">Recommended Reading</p>
                     <p className="text-sm text-gray-500 dark:text-gray-400">
-                      "The Feeling Good Handbook" by David D. Burns
+                      &quot;The Feeling Good Handbook&quot; by David D. Burns
                     </p>
                   </div>
                 </div>
@@ -189,7 +189,7 @@ export default function dashboard() {
                   <div>
                     <p className="text-sm font-medium">Recommended Videos</p>
                     <p className="text-sm text-gray-500 dark:text-gray-400">
-                      "Challenging Cognitive Distortions" by Therapist Aid
+                      &quot;Challenging Cognitive Distortions&quot; by Therapist Aid
                     </p>
                   </div>
                 </div>
@@ -199,7 +199,7 @@ export default function dashboard() {
                   </div>
                   <div>
                     <p className="text-sm font-medium">Recommended Podcasts</p>
-                    <p className="text-sm text-gray-500 dark:text-gray-400">"The Happiness Lab" by Dr. Laurie Santos</p>
+                    <p className="text-sm text-gray-500 dark:text-gray-400">&quot;The Happiness Lab&quot; by Dr. Laurie Santos</p>
                   </div>
                 </div>
               </div>
@@ -617,3 +617,4 @@ function VideoIcon(props) {
     </svg>
   )
 }
+
